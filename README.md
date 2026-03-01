@@ -21,5 +21,5 @@ Dans le dossier où il y a les réponses en Python et le PDF avec les questions.
 ## Installation
 
 ```python
-pip install git+https://github.com/Valouzzzz/modif_L1test.git
+pip install PyMuPDF git+https://github.com/Valouzzzz/modif_L1test.git
 ```
