@@ -7,7 +7,7 @@
     $$$ 
 """
 ```
-De L1test après une fonction.
+De [L1test](https://pypi.org/project/L1test/) après une fonction.
 
 Pour l'utiliser il faut faire :
 ```python
